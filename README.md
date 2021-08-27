@@ -10,4 +10,4 @@
 
 - Compare the two maps
 
-- Convert KITTI dataset fro SLAM to rosbag 
+- Convert KITTI dataset for SLAM to rosbag 
